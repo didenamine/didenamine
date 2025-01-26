@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Diden</h1>
-<h3 align="center"></h3>
 
 
 - 📫 How to reach me **d19amine@gmail.com**
